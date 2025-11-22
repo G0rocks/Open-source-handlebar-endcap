@@ -1,4 +1,4 @@
-# e-reader-or-book-bed-holder
+# Open source handlebar endcap
 Open source 3D printable endcap for bicycle handlebars.
 
 Designed for personal use and remixing — see license details below for commercial terms.
